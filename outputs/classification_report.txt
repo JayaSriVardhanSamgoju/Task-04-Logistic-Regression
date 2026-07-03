@@ -1,0 +1,17 @@
+=== LOGISTIC REGRESSION CLASSIFICATION REPORT ===
+
+Accuracy:  0.9649
+Precision: 0.9750
+Recall:    0.9286
+F1-Score:  0.9512
+ROC-AUC:   0.9960
+
+Detailed Report:
+              precision    recall  f1-score   support
+
+      Benign       0.96      0.99      0.97        72
+   Malignant       0.97      0.93      0.95        42
+
+    accuracy                           0.96       114
+   macro avg       0.97      0.96      0.96       114
+weighted avg       0.97      0.96      0.96       114
